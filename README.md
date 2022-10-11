@@ -26,6 +26,8 @@ one new dish for each day of the week.
 
 - a shopping list (add-to-cart button within the recipe page) which would show up on user's profile
 
+# attention: to anyone intending to run the app, run 'npm i' before 'ng serve' to run the app
+
 
 
 
