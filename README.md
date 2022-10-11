@@ -12,6 +12,7 @@ one new dish for each day of the week.
 - **homescreen** containing the recipe buttons (each containing within itself a _like_ button and text that shows the _prep time_ for each dish)
 - the **recipe** page containing the _ingredients_ and _prep details_ (and some pretty awful puns)
 - a **profile** page containing all the recipes the user likes from said week 
+- a **navigation panel** on the bottom of the screen, constant throughout the app
 
 ### future update ideas  :
 
