@@ -1,5 +1,4 @@
-## cheez
-craft
+## cheezcraft
 a very bare minimum recipe app 🧀
 
 since this was a primitive attempt, i wanted to restrict myself to a limited array of recipes. 
