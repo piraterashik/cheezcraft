@@ -3,7 +3,7 @@ a very bare minimum recipe app 🧀
 
 since this was a primitive attempt, i wanted to restrict myself to a limited array of recipes. 
 therefore the cheese-based recipes. 
-the idea was: 7 new recipes (focused around cheese, duh) would be released every week
+the idea was: 7 new recipes (focused around cheese, don't ask why) would be released every week
 one dish for each day of the week. 
 
 3 screens in total
