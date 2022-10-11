@@ -8,9 +8,9 @@ one new dish for each day of the week.
 
 3 screens in total
 
-- homescreen containing the recipe buttons (each containing within itself a like button and text that shows the prep time for each dish)
-- the recipe page containing the ingredients and prep details (and some pretty awful puns)
-- a profile page containing all the recipes the user likes from said week 
+- **homescreen** containing the recipe buttons (each containing within itself a _like_ button and text that shows the _prep time_ for each dish)
+- the **recipe** page containing the _ingredients_ and _prep details_ (and some pretty awful puns)
+- a **profile** page containing all the recipes the user likes from said week 
 
 some ideas for future updates  :
 
