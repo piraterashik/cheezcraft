@@ -1,0 +1,117 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/anthony-hunter.ttf",
+      "sha1": "80c74499a6d2d8ae9d64396b82a156bc49e06e3e"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Black.ttf",
+      "sha1": "fca130f21601346cce37bb8a9526ff01af66d912"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "04052dc3b846609216de1e0cbcec337c6b6e74f6"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ExtraBold.ttf",
+      "sha1": "1914bc1981e6ceceadb2f6d72455b4e89e04965c"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ExtraLight.ttf",
+      "sha1": "7c594b126941460bd2f3b47097fd6222f52277e7"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Light.ttf",
+      "sha1": "6f21894a80049259ef71fcba135218695b41b67a"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "6b57d12e018c64352e202f8ef3bf7f431f76d935"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "de57aa03e4821fdbe6c34ec2c895e8b5c914e837"
+    },
+    {
+      "path": "assets/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "8580dec824bbdb6ce24d04d3aaf360776339f0a7"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Thin.ttf",
+      "sha1": "8c871991960f520a31635f95be6c346b659e2c8c"
+    },
+    {
+      "path": "assets/fonts/Proxima-Nova-Alt-Bold.otf",
+      "sha1": "44b0df572e9cf9389cd6d41a44e1d3425ac3cd20"
+    },
+    {
+      "path": "assets/fonts/Proxima-Nova-Alt-Light.otf",
+      "sha1": "813f4df23bb5c7a45f886bac87744086c72baf2c"
+    },
+    {
+      "path": "assets/fonts/Proxima-Nova-Alt-Thin.otf",
+      "sha1": "c8a0805e0903ce1a10b532d6d711d59b961ae673"
+    },
+    {
+      "path": "assets/fonts/Proxima-Nova-Black.otf",
+      "sha1": "94159dcb3cba9e8702b22caa2ff9bc74c03b4c70"
+    },
+    {
+      "path": "assets/fonts/Proxima-Nova-Bold.otf",
+      "sha1": "411bff1d3b8f0144f1685c94a21156a53848d5a6"
+    },
+    {
+      "path": "assets/fonts/Proxima-Nova-Extrabold.otf",
+      "sha1": "01ed725f5618902e19911eccac005c7069bc8017"
+    },
+    {
+      "path": "assets/fonts/Proxima-Nova-Font.otf",
+      "sha1": "e41a5e523f03be8b9b9002422a52e4e8741ca462"
+    },
+    {
+      "path": "assets/fonts/Proxima-Nova-Thin.otf",
+      "sha1": "d1255358e8dd8b7bcc9980ad80cde9e6a707d3db"
+    },
+    {
+      "path": "assets/fonts/ProximaNova-Regular.otf",
+      "sha1": "28d04eb938c05b5158a69a709682d4f0517a59ab"
+    },
+    {
+      "path": "assets/fonts/Spartan-Black.ttf",
+      "sha1": "974f7919d77b68690eebea371c1a0c77979f2b85"
+    },
+    {
+      "path": "assets/fonts/Spartan-Bold.ttf",
+      "sha1": "0f0dcdb9cf85f3cdc962b7e8cb3131718e0ade57"
+    },
+    {
+      "path": "assets/fonts/Spartan-ExtraBold.ttf",
+      "sha1": "7c0a0dfe2925e078dc8b703802019832347de6fd"
+    },
+    {
+      "path": "assets/fonts/Spartan-ExtraLight.ttf",
+      "sha1": "735cb8c6a92a43958ee98ff7340eb06d7ec13165"
+    },
+    {
+      "path": "assets/fonts/Spartan-Light.ttf",
+      "sha1": "3b982b8dd978e4f28f55f7970a81ca1f80307a1f"
+    },
+    {
+      "path": "assets/fonts/Spartan-Medium.ttf",
+      "sha1": "b02ca359960f621fd8fe051e923699fc25bb44f8"
+    },
+    {
+      "path": "assets/fonts/Spartan-Regular.ttf",
+      "sha1": "ed6d6bdf136f0a398e2de726c7c6b4e7804f9d8c"
+    },
+    {
+      "path": "assets/fonts/Spartan-SemiBold.ttf",
+      "sha1": "8d1816d5158621809b82774929091705232b3c70"
+    },
+    {
+      "path": "assets/fonts/Spartan-Thin.ttf",
+      "sha1": "2cf3522628426ca6d5e5dd6c387213a2b7c77d7a"
+    }
+  ]
+}
