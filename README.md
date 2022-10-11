@@ -6,6 +6,7 @@ therefore the cheese-based recipes.
 the idea was: 7 new recipes (focused around cheese, don't ask why) would be released every week.
 one new dish for each day of the week. 
 
+accomplished: 
 3 screens in total
 
 - **homescreen** containing the recipe buttons (each containing within itself a _like_ button and text that shows the _prep time_ for each dish)
