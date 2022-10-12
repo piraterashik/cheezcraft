@@ -1,12 +1,8 @@
 ## cheezcraft
 a very bare minimum recipe app 🧀
 
-since this was a primitive attempt, i wanted to restrict myself to a limited array of recipes. 
-therefore the cheese-based recipes. 
-the idea was: 7 new recipes (focused around cheese, don't ask why) would be released every week.
-one new dish for each day of the week. 
 
-### accomplished: 
+### so far: 
 
 - **homescreen** containing the recipe buttons (each containing within itself a _like_ button and _prep time_ for each dish)
 - the **recipe** page containing the _ingredients_ and _prep details_ (and some pretty awful puns)
